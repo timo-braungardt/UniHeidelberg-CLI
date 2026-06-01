@@ -1,0 +1,14 @@
+[submodule "mensa_alert"]
+	path = mensa_alert
+	url = https://github.com/timo-braungardt/mensa_alert
+	ignore = dirty
+
+[submodule "UniHeidelberg-Campuscard"]
+	path = UniHeidelberg-Campuscard
+	url = https://github.com/timo-braungardt/UniHeidelberg-Campuscard
+	ignore = dirty
+
+[submodule "uni_heidelberg_vpn"]
+	path = uni_heidelberg_vpn
+	url = https://codeberg.org/timo-braungardt/uni_heidelberg_vpn
+	ignore = dirty
