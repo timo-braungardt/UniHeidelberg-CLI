@@ -16,7 +16,7 @@ git submodule update --remote --merge
 To see how to use the different scripts, read the readme of the submodule.
 
 [Mensa Alert](./mensa_alert/README.md)  
-Look up the daylie menue of today or for the whole week.
+Look up the daily menue of today or for the whole week.
 
 [Uni Heidelberg VPN](./uni_heidelberg_vpn/README.md)  
 Connect to the Uni VPN without the GUI. 
